@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 04. Alerta de bateria
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** Operador terniario
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se eligio esta estructura ya que es la mas adecuada para solo dos unicas opciones, debido a que cumple con la solucion del problema y al mismo tiempo optimiza las lines de codigo
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema04.png)
