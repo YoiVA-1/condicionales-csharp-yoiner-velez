@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 05. El mayor de dos numeros
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** if else if
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se hizo esta estructura para evitar errores al poner dos numeros exctamente igual, en caso de que no existiera este error se hubiera utilizado el operador terniario
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema05.png)
