@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 07. Signo de un numero
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** switch expression
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se uso porque es una opcion que optimiza el codigo ademas de cumplir las condiciones suficientes para comparar los numeros respectivos
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema07.png)

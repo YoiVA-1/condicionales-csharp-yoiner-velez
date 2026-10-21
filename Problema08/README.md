@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 08. Vocal o consonante
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** if else anidado
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** Se utilizó la estructura porque el problema presenta caminos mutuamente excluyentes Esto permite evaluar de forma directa la condición principal de las vocales y utilizar el bloque else para capturar de manera limpia
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema08.png)
