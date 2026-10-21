@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 09. Año bisiesto
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** if else
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** Se utilizó la estructura porque el problema requiere evaluar reglas lógicas y matemáticas compuestas. Esto permitió validar de forma directa dicha condición principal y manejar mediante el bloque else el resultado alternativo, dividiendo el flujo en dos únicas respuestas posibles de manera limpia y eficiente.
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema09.png)
