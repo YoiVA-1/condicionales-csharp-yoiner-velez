@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 10. Analizador de datos recibidos
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** if elseif
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se utilizo esta estructura debido a las multiples condiciones que rodeaban a este problema siendo la estructura que mas encajaba en esto
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema10.png)
