@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 06. piedra papel o tijera    
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** if elseif
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se utilizo esta estructura debido a que el problema representa multiples caminos excluyentes de victoria,empate y derrota ayudando a evaluar cada escenario de forma independiente
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema06.png)
