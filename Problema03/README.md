@@ -1,8 +1,8 @@
 # Problema 01. Registro electoral
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** Switch tradicional
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** Se agrego la estructura respectiva ya que era la mejor para un menu simple debido a que no maneja comparaciones ni operaciones asi que solo nesecita elecciones simples las cuales switch puede cumplir perfectamente 
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema03.png)
