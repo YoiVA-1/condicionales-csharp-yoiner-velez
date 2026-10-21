@@ -1,4 +1,4 @@
-# Problema 02. Registro electoral
+# Problema 02. Tarifa de envío por peso
 
 **Estructura elegida:** switch expression
 

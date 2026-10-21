@@ -1,4 +1,4 @@
-# Problema 01. Registro electoral
+# Problema 03. Menú de cajero automático
 
 **Estructura elegida:** Switch tradicional
 
