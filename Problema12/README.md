@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 12. Aprobación de crédito
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** if elseif anidado
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se utilizo esta estructura debido a que se validan varias cosas desde el inico cuando se pregunta si es empleado y al final cuando se valida el ingreso
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema12.png)
