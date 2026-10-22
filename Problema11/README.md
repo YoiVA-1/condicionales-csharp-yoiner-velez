@@ -1,8 +1,8 @@
-# Problema 01. Registro electoral
+# Problema 11. Semáforo inteligente
 
-**Estructura elegida:** (escríbela aquí)
+**Estructura elegida:** Switch tradicional
 
-**Justificación:** (una línea explicando por qué)
+**Justificación:** se utilizo la estrucutra debido a que no era un sisteme en el que se tenian que comparar enteros o parecidos, y solamente selecciones simples de colores
 
 **Evidencia:**
-!Salida
+![Salida](evidencias/Problema11.png)
